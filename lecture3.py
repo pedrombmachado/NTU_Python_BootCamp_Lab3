@@ -12,4 +12,4 @@ print(mat[0][2],"-->mat[0][2]")
 print(mat[1][0],"-->mat[1][0]")
 print(mat[1][1],"-->mat[1][1]")
 print(mat[1][2],"-->mat[1][2]")
-mat[1][1]=8
+mat[1][1]=9
